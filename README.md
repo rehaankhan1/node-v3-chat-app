@@ -3,7 +3,7 @@
 
 [Click here to see the video](https://s5.gifyu.com/images/maal.gif/)
 
-Socket.io Real-Time Chat App With NodeJS.
+Socket.io Real-Time Chat App With NodeJS.This project works in Real Time. You can also send your current location and can join several rooms.It will also show number of current active users inside a particular room.It has auto scroll features so that whenever a new message arrives, it will automatically scroll.
 
 [https://immense-beyond-61245.herokuapp.com/](https://immense-beyond-61245.herokuapp.com/)
 
