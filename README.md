@@ -1,9 +1,5 @@
 # Socket.io Chat App
-
-
-<img src="https://s5.gifyu.com/images/maal.gif">
-
-
+[Click here to see the video](https://s5.gifyu.com/images/maal.gif/)
 
 Socket.io Real-Time Chat App With NodeJS.
 
